@@ -1,24 +1,25 @@
 ---
 created: 2025-03-04T16:04
-updated: 2025-03-04T16:45
+updated: 2025-03-04T17:04
 ---
 
 # Templates Agile
 
 Este diretório contém os templates para automatizar a criação das notas e da estrutura de uma sprint no Obsidian, usando o plugin [Templater](https://github.com/SilentVoid13/Templater). O foco principal é o template **Sprint-Start.md**, que inicia a configuração da sprint com uma sequência intuitiva de perguntas.
 
-![](https://youtu.be/UmGCHRNbGAA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmGCHRNbGAA?si=oxA9l5YeG9Ibh2kG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Pré-requisitos
 
 1) Adicionar o comando "Templater: Create new note from template" à ribbon do vault, permitindo criar notas a partir de um template pré-definido de forma rápida e prática:
 
-![](https://youtu.be/E55qtFk39Oo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E55qtFk39Oo?si=xENoBL-AKH6GTHvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 2) Configura o plugin "Tasks" para identificar, por meio da hash "#task", quais itens de checklist devem ser tratados como tarefas da sprint. Por exemplo, itens formatados como "- [ ] #task Isso é uma tarefa" serão reconhecidos como tarefas, enquanto "- [ ] É um item em uma lista, mas não uma tarefa da sprint" não serão.
 
-![](https://youtu.be/kwKm2qgWguU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kwKm2qgWguU?si=x6CTG7bzo8oUFjX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Etapas
