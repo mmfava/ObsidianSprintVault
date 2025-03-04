@@ -1,25 +1,25 @@
 ---
 created: 2025-03-04T16:04
-updated: 2025-03-04T17:04
+updated: 2025-03-04T17:09
 ---
 
 # Templates Agile
 
 Este diretório contém os templates para automatizar a criação das notas e da estrutura de uma sprint no Obsidian, usando o plugin [Templater](https://github.com/SilentVoid13/Templater). O foco principal é o template **Sprint-Start.md**, que inicia a configuração da sprint com uma sequência intuitiva de perguntas.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UmGCHRNbGAA?si=oxA9l5YeG9Ibh2kG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Assista à demonstração do Sprint-Start](https://img.youtube.com/vi/UmGCHRNbGAA/0.jpg)](https://www.youtube.com/watch?v=UmGCHRNbGAA)
 
 ## Pré-requisitos
 
-1) Adicionar o comando "Templater: Create new note from template" à ribbon do vault, permitindo criar notas a partir de um template pré-definido de forma rápida e prática:
+1. **Adicionar o comando "Templater: Create new note from template" à ribbon do vault**  
+    Permite criar notas a partir de um template pré-definido de forma rápida e prática.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E55qtFk39Oo?si=xENoBL-AKH6GTHvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Demonstração - Comando na Ribbon](https://img.youtube.com/vi/E55qtFk39Oo/0.jpg)](https://www.youtube.com/watch?v=E55qtFk39Oo)
 
+2. **Configurar o plugin "Tasks" para identificar tarefas na sprint**  
+    O plugin será ajustado para que itens de checklist com a hash `#task` sejam reconhecidos como tarefas da sprint. Por exemplo, itens formatados como "- [ ] #task Isso é uma tarefa" serão tratados como tarefas, enquanto "- [ ] É um item em uma lista, mas não uma tarefa da sprint" não serão.
 
-2) Configura o plugin "Tasks" para identificar, por meio da hash "#task", quais itens de checklist devem ser tratados como tarefas da sprint. Por exemplo, itens formatados como "- [ ] #task Isso é uma tarefa" serão reconhecidos como tarefas, enquanto "- [ ] É um item em uma lista, mas não uma tarefa da sprint" não serão.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kwKm2qgWguU?si=x6CTG7bzo8oUFjX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Demonstração - Configuração do Plugin Tasks](https://img.youtube.com/vi/kwKm2qgWguU/0.jpg)](https://www.youtube.com/watch?v=kwKm2qgWguU)
 
 
 ## Etapas

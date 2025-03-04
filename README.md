@@ -1,12 +1,13 @@
 ---
 created: 2025-03-04T14:58
-updated: 2025-03-04T17:04
+updated: 2025-03-04T17:08
 ---
 # Obsidian Sprint Vault 
 
 Este repositório fornece um vault pré-configurado para o Obsidian voltado para a gestão e acompanhamento de **sprints ágeis** em projetos de IA. Utilizando templates automatizados e scripts com o plugin **Templater**, é possível criar e gerenciar arquivos para plannings, dailies, reviews, retrospectivas, e outros. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UmGCHRNbGAA?si=oxA9l5YeG9Ibh2kG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Assista ao vídeo](https://img.youtube.com/vi/UmGCHRNbGAA/0.jpg)](https://www.youtube.com/watch?v=UmGCHRNbGAA)
+
 
 ## 📁 Estrutura do Vault
 
